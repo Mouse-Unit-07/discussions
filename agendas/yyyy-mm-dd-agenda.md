@@ -1,0 +1,34 @@
+# 2025-5-dd Meeting Agenda
+- talk about new platforms, tools, and the micromouse todo list
+  - yessir back on the grind
+
+## Status Updates
+- new infrastructure is laid out, but everything is subject to change
+  - the motto is adaptive to change, anyone can do anything, and we capture/streamline every little piece
+  - what do you guys think (how atrocious is all of this)?
+  - anything that doesn't make sense, or should be changed?
+
+## Next Steps
+- full todo-list I can think of is here:
+  - https://github.com/Mouse-Unit-07/discussions/discussions/5#discussioncomment-12963800
+- high level todo list is:
+  - run through essential readings to be on the same page for development practices
+    - **Clean Code**
+    - TDD- choose one for now:
+      - **Test-Driven Development for Embedded C**
+      - **Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better**
+    - tldr docs for general programming concepts, UML, and DevOps:
+      - https://github.com/Mouse-Unit-07/team-guides/tree/main/key-readings/tldr-notes
+  - finish development environment infrastructure
+    - CMake, Docker, etc
+  - UART bridge
+    - rough test to confirm that the ESP32 module works
+  - finalize software architecture sketches and come to an agreement to trigger all software development:
+    - AT32UC3L0256 firmware rewrite
+    - Maze algo upgrades
+    - C++ test software
+  - build new mouse and test new firmware on new cork board maze
+
+## Misc Items
+- next meeting
+  - how does a month sound for this first iteration, and then every 3 weeks after that?
