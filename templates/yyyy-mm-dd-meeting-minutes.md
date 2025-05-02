@@ -1,4 +1,4 @@
-# yyy-mm-dd Meeting Notes
+# yyy-mm-dd Meeting Minutes
 Participants:
 - Naruto Uzumaki
 - Ash Ketchum
